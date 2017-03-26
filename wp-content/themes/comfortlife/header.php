@@ -36,28 +36,28 @@
 	<div class="container">
 		<div class="first-header">
 			<div class="first-header-contact">
-				<p><img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/phone.png" alt=""> 000 000-00-00</p>
-				<p><img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/mail.png" alt=""> info@comfortlife.com.ua</p>
+				<p><img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/phone-1.png" alt=""> 000 000-00-00</p>
+				<p><img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/mail-1.png" alt=""> info@comfortlife.com.ua</p>
 			</div>
 			<div class="first-header-social">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/fb.png" alt="">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/twitter.png" alt="">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/youtube.png" alt="">
+				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/fb-1.png" alt="">
+				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/twitter-1.png" alt="">
+				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/youtube-1.png" alt="">
 			</div>
 		</div>
 	</div>
 	<div class="container">
 		<div class="second-header">
 			<div class="second-header-logo">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/logo-comfortlife.png" alt="">
+				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/logo-comfortlife-1.png" alt="">
 			</div>
 			<div class="second-header-menu">
-				<li><a href="">Главная</a></li>
-				<li><a href="">О нас</a></li>
-				<li><a href="">Услуги</a></li>
-				<li><a href="">Цены</a></li>
-				<li><a href="">Фотогалерея</a></li>
-				<li><a href="">Контакты</a></li>
+				<li><a href="#">Главная</a></li>
+				<li><a href="#">О нас</a></li>
+				<li><a href="#">Услуги</a></li>
+				<li><a href="#">Цены</a></li>
+				<li><a href="#">Фотогалерея</a></li>
+				<li><a href="#">Контакты</a></li>
 			</div>
 		</div>
 	</div>
