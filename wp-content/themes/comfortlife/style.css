@@ -161,6 +161,7 @@ nav ul a {
 .second-header-menu li {
   float: left;
   padding-left: 20px;
+  list-style-type: none;
 }
 
 .second-header-menu a {

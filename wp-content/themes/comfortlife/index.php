@@ -37,7 +37,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/yes-img2.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
 				</div>
 				<div class="yes-title">
 					Медицинское обследование
@@ -52,7 +52,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/yes-img2.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
 				</div>
 				<div class="yes-title">
 					Круглосуточный уход
@@ -67,7 +67,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/yes-img2.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
 				</div>
 				<div class="yes-title">
 					Контроль за здоровьем
@@ -82,7 +82,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/yes-img2.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
 				</div>
 				<div class="yes-title">
 					Организация досуга
@@ -152,10 +152,10 @@
 		</div>
 		<div class="col-md-6">
 			<div class="price-photo1">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/price-photo1.png" alt="">	
+				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/price-photo1-1.png" alt="">	
 			</div>
 			<div class="price-photo2">
-				<img class="price-photo2" src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/price-photo2.png" alt="">
+				<img class="price-photo2" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/price-photo2-1.png" alt="">
 			</div>
 		</div>
 	</div>
@@ -217,8 +217,8 @@
 			</span>
 		</div>
 	</div>
-	<img class="ballon" src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/ballon.png" alt="">
-	<img class="house" src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/house.png" alt="">
+	<img class="ballon" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/ballon-1.png" alt="">
+	<img class="house" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/house-1.png" alt="">
 </div>
 
 <!-- Map -->
