@@ -37,6 +37,13 @@ Version: 1.0.0
   .mobile-show {
     display: block !important;
   }
+  .gallery-text-block {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .gallery {
+    padding-left: 15px !important;
+  }
 }
 
 .margin50 {
@@ -216,11 +223,7 @@ nav ul a {
 /* ABOUT */
 
 .about h2 {
-  float: left;
-  text-transform: uppercase;
-  margin-bottom: 35px;
-  padding-bottom: 5px;
-  border-bottom: 3px solid #d77b5d;
+  text-transform: uppercase;  
 }
 
 .about p {
@@ -275,7 +278,7 @@ nav ul a {
   margin-top: 50px;
 }
 
-.price hr {
+.price hr, .about hr {
   border-top: 3px solid #d77b5d;
   width: 100px;
 }
@@ -348,6 +351,59 @@ nav ul a {
 
 .gallery {
   background-color: #fff;
+  padding: 0px;
+}
+
+.gallery-text-block {
+  padding-left: 0px; 
+  padding-right: 45px;
+}
+
+.gallery-title {
+  font-size: 35px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.gallery-desc {
+  margin-top: 65px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.gallery-text {
+  margin-bottom: 65px;
+}
+
+.gallery-icon {
+  margin: 40px 0px;
+}
+
+.main-gallery {
+  width: 100%;
+}
+
+.gallery-list {
+  position: absolute;
+  right: -65px;
+  top: 0px;
+  background-color: #fff;
+  margin: 55px 0px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 0px #777;
+}
+
+.gallery-list li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.gallery-list li:last-child {
+  margin-bottom: 0px;
+}
+
+.gallery-list-img {
+
 }
 
 .button-block {

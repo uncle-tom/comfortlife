@@ -21,6 +21,7 @@
 <div class="container about">
 	<div class="col-md-12">
 		<h2>О нас</h2>
+		<hr align="left">
 	</div>
 	<div class="col-md-6">
 		<p>Наш пансионат для пожилых людей – это не заведение, где к старикам относятся формально. Приходя к нам, вы становитесь частью большой и дружной семьи, где каждый относится друг к другу с дружелюбием и вниманием. А также наша команда опытных и профессиональных сотрудников , имеющих опыт работы более 10 лет, уделит и окажет должное внимание каждому нашему Гостю. Наш пансионат расположен в большом лесным массиве с вековыми соснами, наполненным светом и тишиной, волшебной окружающей красотой и легкой прохладой озер и рек, которые находятся неподалеку, от нас. В просторном, современном здании, где есть все для комфортного времяпрепровождения. По желанию пожилой человек может заселиться в одноместную комнату или проживать с соседями. У нас есть большая прогулочная зона среди сосен, которая позволяет нашим постояльцам совершать променады в любую погоду.</p>
@@ -150,7 +151,7 @@
 				</span>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6 pc-show">
 			<div class="price-photo1">
 				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/price-photo1-1.png" alt="">	
 			</div>
@@ -182,22 +183,31 @@
 </section>
 
 <section id="gallery">
-	<div class="container gallery">
-		<div class="col-md-6 gallery-img">
-			<img src="" alt="">
-		</div>
-		<div class="col-md-6 text-center">
-			<div class="gallery-desc">
-				Пансионат для пожилых людей
+	<div style="padding: 80px;">
+		<div class="container gallery">
+			<div class="col-md-6 gallery-img padding-none">
+				<img class="main-gallery" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-1.png" alt="">
+				<div class="gallery-list">
+					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-2.png" alt=""></li>
+					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-3.png" alt=""></li>
+					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-4.png" alt=""></li>
+					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-5.png" alt=""></li>	
+				</div>
 			</div>
-			<div class="gallery-title">
-				"Комфортная жизнь"
-			</div>
-			<div class="gallery-icon">
-				<img src="http://localhost/mythemetwo/comfortlife/wp-content/uploads/2017/03/gallery-icon.png" alt="">
-			</div>
-			<div class="gallery-text">
-				Здесь не бывает одиноко. В пансионате для пожилых людей "Комфортная жизнь", Ваши близкие люди не останутся без компании и должного ухода. Квалифицированный персонал следит за здоровьем своих гостей круглосуточно и сможет оперативно оказать помощь. Кроме того, вашим пожилым родственникам никогда не будет скучно или одиноко.
+			<div class="col-md-1"></div>
+			<div class="col-md-5 text-center gallery-text-block">
+				<div class="gallery-desc">
+					Пансионат для пожилых людей
+				</div>
+				<div class="gallery-title">
+					"Комфортная жизнь"
+				</div>
+				<div class="gallery-icon">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/comfort-icon.png" alt="">
+				</div>
+				<div class="gallery-text">
+					Здесь не бывает одиноко. В пансионате для пожилых людей "Комфортная жизнь", Ваши близкие люди не останутся без компании и должного ухода. Квалифицированный персонал следит за здоровьем своих гостей круглосуточно и сможет оперативно оказать помощь. Кроме того, вашим пожилым родственникам никогда не будет скучно или одиноко.
+				</div>
 			</div>
 		</div>
 	</div>
@@ -217,8 +227,8 @@
 			</span>
 		</div>
 	</div>
-	<img class="ballon" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/ballon-1.png" alt="">
-	<img class="house" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/house-1.png" alt="">
+	<img class="ballon pc-show" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/ballon-1.png" alt="">
+	<img class="house pc-show" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/house-1.png" alt="">
 </div>
 
 <!-- Map -->
