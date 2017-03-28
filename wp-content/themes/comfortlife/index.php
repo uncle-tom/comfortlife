@@ -37,7 +37,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/3.png" alt="">
 				</div>
 				<div class="yes-title">
 					Медицинское обследование
@@ -52,7 +52,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/2.png" alt="">
 				</div>
 				<div class="yes-title">
 					Круглосуточный уход
@@ -67,7 +67,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/4.png" alt="">
 				</div>
 				<div class="yes-title">
 					Контроль за здоровьем
@@ -82,7 +82,7 @@
 		<div class="yes">
 			<div class="yes-block">
 				<div class="yes-img">
-					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/yes-img2-1.png" alt="">
+					<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/4.png" alt="">
 				</div>
 				<div class="yes-title">
 					Организация досуга
