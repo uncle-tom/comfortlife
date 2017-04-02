@@ -32,8 +32,34 @@
 <?php wp_head(); ?>
 </head>
 
+<ul id="slide-out" class="side-nav">
+	<div class="background">
+		<p class="slide-menu-title">"Комфортная жизнь"</p>
+	  <p>Пансионат для пожилых людей</p>
+  </div>
+  
+	<hr>
+	<div class="menu">
+		<ul>
+			<li><a href="/">Главная</a></li>
+			<li><a href="/o-nas/">О нас</a></li>
+			<li><a href="/tsenyi/">Цены</a></li>
+			<li><a href="/fotogalereya/">Фотогалерея</a></li>
+			<li><a href="/kontaktyi/">Контакты</a></li>
+		</ul>
+	</div>
+	
+  
+	<hr>
+	<div class="slide-menu-phones">
+		<li><img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/phone-1.png" alt=""> 000 000-00-00</li>
+		<li><img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/mail-1.png" alt=""> info@comfortlife.com.ua</li>
+	</div>
+	
+</ul>
+
 <header>
-	<div class="container">
+	<div class="container pc-show">
 		<div class="first-header">
 			<div class="first-header-contact">
 				<p><img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/phone-1.png" alt=""> 000 000-00-00</p>
@@ -46,7 +72,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container">
+	<div class="container pc-show">
 		<div class="second-header">
 			<div class="second-header-logo">
 				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/logo-comfortlife-1.png" alt="">
@@ -60,4 +86,20 @@
 			</div>
 		</div>
 	</div>
+	<nav class="mobile-header navbar navbar-default mobile-show">
+		<div class="container">
+			<div class="col-xs-9">
+				Комфортная жизнь
+			</div>
+			<div class="col-xs-3">
+				<div class="hamburger-menu" data-activates="slide-out">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</div>
+		</div>
+	</nav>
+	
 </header>

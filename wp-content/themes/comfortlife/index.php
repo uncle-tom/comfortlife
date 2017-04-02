@@ -100,14 +100,14 @@
 
 <section id="price">
 	<div class="container price">
-		<div class="col-md-6">
+		<div class="col-md-6 col-xs-12">
 			<h2>Стоимость за сутки проживания</h2>
 			<hr align="left">
 			<div class="price-description">
 				Мы рады принять у себя тех, кто хочет продолжать вести активную жизнь, в том числе социальную. У нас пожилые люди найдут хорошую компанию и, одновременно, будут иметь личное место для уединения. Наш пансионат Комфортная жизнь для пожилых людей в г. Ирпень прекрасно оснащен. У нас есть все условия для проживания активных пенсионеров, для ухода за лежачими больными. Мы готовы взять на себя заботу об инвалидах и проводить ежедневный мониторинг за состоянием их здоровья.
 			</div>
 			<div class="margin50"></div>
-			<div class="col-md-10 block-center">
+			<div class="price-table col-md-10 col-xs-12 padding-none block-center">
 				<div class="table-responsive">
 				  <table class="table">
 						<thead>
@@ -141,6 +141,7 @@
 					</table>
 				</div>
 			</div>
+			
 			<div class="margin50"></div>
 			<div class="price-button-block">
 				<span class="button-send">
@@ -183,7 +184,7 @@
 </section>
 
 <section id="gallery">
-	<div style="padding: 80px;">
+	<div class="padding80 mobile-padding-none">
 		<div class="container gallery">
 			<div class="col-md-6 gallery-img padding-none">
 				<img class="main-gallery" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-1.png" alt="">

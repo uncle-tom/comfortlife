@@ -33,17 +33,132 @@ Version: 1.0.0
   .pc-show {
     display: none !important;
   }
-
   .mobile-show {
     display: block !important;
+  }
+  .mobile-padding-none {
+    padding: 0px !important;
+  }
+  .mobile-header {
+    background: #2f2f2f!important;
+    border: none !important;
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+  }
+  .hamburger-menu {
+    width: 30px;
+    height: 100%;
+    float: right;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+  }
+  .hamburger-menu span {
+    width: 30px;
+    height: 2px;
+    background: #fff;
+    display: block;
+    position: absolute;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .25s ease-in-out;
+    -moz-transition: .25s ease-in-out;
+    -ms-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+  }
+  .hamburger-menu span:nth-child(1) {
+    top: 20.5px;
+  }
+  .hamburger-menu span:nth-child(2), .hamburger-menu span:nth-child(3) {
+    top: 28.5px;
+  }
+  .hamburger-menu span:nth-child(4) {
+    top: 36.5px;
+  }
+  .welcome-message {
+    padding: 70px 0px !important;
+    margin: 0px 10px;
+  }
+  .welcome-title {
+    font-size: 2.5em !important;
+  }
+  .welcome-description {
+    width: 90% !important;
+    margin: -45px auto !important;
+  }
+  #slide-out .background {
+    padding: 10px 16px 0px 16px;
+  }
+  .slide-menu-title {
+    font-size: 6vw;
+    margin-bottom: 0px;
+  }
+  .side-nav li {
+    line-height: inherit!important;
+    padding: 10px 0px;
+  }
+  .side-nav a {
+    height: auto!important;
+    line-height: inherit;
+    padding: 0 16px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .side-nav a:hover {
+    background-color: transparent;
+  }
+  .slide-menu-phones {
+    float: left;
+    margin-bottom: 40px;
+    padding: 0px 16px;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 38px;
+    line-height: 38px;
+  }
+  .slide-menu-phones li {
+    padding: 0px !important;
   }
   .gallery-text-block {
     padding-left: 15px !important;
     padding-right: 15px !important;
   }
   .gallery {
-    padding-left: 15px !important;
+    /*padding-left: 15px !important;*/
   }
+  .yes {
+    margin-bottom: 10px;
+  }
+  #include-price {
+    background-position: 75% 43%;
+  }
+  .table-responsive {
+    border: none;
+  }
+  .button-send, .button-call {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .button-call {
+    margin-left: 0px !important;
+  }
+  .button-send, .button-call {
+    float: left;
+  }
+  .contact-block {
+    position: relative !important;
+    width: 100% !important;
+    padding: 20px !important;
+    right: 0px !important;
+  }
+
 }
 
 .margin50 {
@@ -54,6 +169,9 @@ Version: 1.0.0
 }
 .padding05 {
   padding: 0px 5px;
+}
+.padding80 {
+  padding: 80px;
 }
 
 .block-center {
@@ -121,6 +239,10 @@ body {
 
 nav ul a {
   padding: 0px !important;
+}
+
+.container {
+  width: 100% !important;
 }
 
 /* FIRST HEADER */
