@@ -52,12 +52,11 @@
 				<img src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/logo-comfortlife-1.png" alt="">
 			</div>
 			<div class="second-header-menu">
-				<li><a href="#">Главная</a></li>
-				<li><a href="#">О нас</a></li>
-				<li><a href="#">Услуги</a></li>
-				<li><a href="#">Цены</a></li>
-				<li><a href="#">Фотогалерея</a></li>
-				<li><a href="#">Контакты</a></li>
+				<li><a href="/">Главная</a></li>
+				<li><a href="/o-nas/">О нас</a></li>
+				<li><a href="/tsenyi/">Цены</a></li>
+				<li><a href="/fotogalereya/">Фотогалерея</a></li>
+				<li><a href="/kontaktyi/">Контакты</a></li>
 			</div>
 		</div>
 	</div>
