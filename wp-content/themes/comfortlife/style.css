@@ -503,6 +503,38 @@ nav ul a {
 } 
 
 
+/* PAGE */
+
+.welcome-block {
+  position: relative;
+  min-height: 250px;
+  display: flex;
+}
+
+.welcome-block-text {
+  color: #fff;
+  display: block;
+  margin: auto;
+  text-align: center;
+  z-index: 12;
+  padding: 15px 0px;
+  border-image: linear-gradient(to bottom right,#1ebbf0 0%,#39dfaa 100%);
+  border-bottom-width: 3px;
+  border-style: solid;
+  border-image-slice: 1;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.welcome-block-absolute {
+  position: absolute;
+  background: rgba(0,0,0,0.5);
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
 
 footer {
   text-align: center;
