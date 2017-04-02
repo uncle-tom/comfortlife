@@ -187,12 +187,14 @@
 		<div class="container gallery">
 			<div class="col-md-6 gallery-img padding-none">
 				<img class="main-gallery" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-1.png" alt="">
-				<div class="gallery-list">
-					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-2.png" alt=""></li>
-					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-3.png" alt=""></li>
-					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-4.png" alt=""></li>
-					<li><img class="gallery-list-img" src="http://comfortlife-house.com.ua/wp-content/uploads/2017/03/gallery-5.png" alt=""></li>	
-				</div>
+				
+				<?php $my_postid = 42;//This is page id or post id
+					$content_post = get_post($my_postid);
+					$content = $content_post->post_content;
+					$content = apply_filters('the_content', $content);
+					$content = str_replace(']]>', ']]&gt;', $content);
+					echo $content;
+				?>
 			</div>
 			<div class="col-md-1"></div>
 			<div class="col-md-5 text-center gallery-text-block">
